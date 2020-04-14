@@ -1,7 +1,7 @@
 public class Application {
     public static void main(String[] args) {
         int myInt = 7;
-        String text = "hello";
+        String text = "Hello";
         String name = "Anjuri";
         String greeting = text + name;
         System.out.println(greeting);
